@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>assets/gridView.png</file>
+        <file>assets/listView.png</file>
+        <file>assets/radarIcon_256.png</file>
+        <file>RadarPopupComponent.qml</file>
+        <file>assets/glasses_128.png</file>
+        <file>assets/glasses_256.png</file>
+        <file>assets/radar_128.png</file>
+        <file>assets/radar_256.png</file>
+        <file>assets/glasses_64.png</file>
+        <file>assets/mainGeometricBack.png</file>
+    </qresource>
+</RCC>
